@@ -8,7 +8,7 @@ Aquí están parte de los proyectos en los que he trabajado a través de los añ
 #### 👋🏻 LinkedIn
 Mi [perfil de LinkedIn](https://www.linkedin.com/in/julian-p-797442351/), para conocer más sobre mi experiencia profesional 
 
-(y sí, soy fan de R.E.M. c:)
+[y sí, soy fan de R.E.M. :) ]
 
 
 
