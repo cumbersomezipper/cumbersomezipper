@@ -6,7 +6,7 @@ Mi nombre es Julián Pimentel Escamilla, soy un profesional en datos con más de
 #### 📚 Portafolio
 Aquí están parte de los proyectos en los que he trabajado a través de los años
 #### 👋🏻 LinkedIn
-Mi [perfil de LinkedIn](https://www.linkedin.com/in/julian-p-797442351/), para conocer más sobre mi experiencia profesional 
+Mi [perfil de LinkedIn](https://www.linkedin.com/in/julian-p-797442351/), para conocer más sobre mi experiencia profesional y por si deseas contactarme
 
 [y sí, soy fan de R.E.M. :) ]
 
