@@ -1,6 +1,8 @@
-## PERFIL
+### Introducción 👋
 
-Mi nombre es Julián Pimentel Escamilla, soy un profesional en datos con más de 5 años de experiencia construyendo y transformando bases de datos complejas en información útil para análisis, toma de decisiones y contenido informativo claro. Tengo veteranía en limpieza, análisis y visualización de datos a través de diversas herramientas y lenguajes, como Python, R, SQL, Excel y Power BI. También tengo experiencia en colaboración y coordinación multidisciplinaria en equipo  y explicación de resultados e insights a públicos no técnicos en contextos de investigación, organizaciones civiles y periodismo de datos. En búsqueda de nuevos lugares para contribuir a resolver problemas, encontrar hallazgos y difundir soluciones a través del análisis de datos. En este 
+Mi nombre es Julián Pimentel Escamilla, soy un profesional en datos con más de 5 años de experiencia construyendo y transformando bases de datos complejas en información útil para análisis, toma de decisiones y contenido informativo claro. Tengo veteranía en limpieza, análisis y visualización de datos a través de diversas herramientas y lenguajes, como Python, R, SQL, Excel y Power BI. También tengo experiencia en colaboración y coordinación multidisciplinaria en equipo  y explicación de resultados e insights a públicos no técnicos en contextos de investigación, organizaciones civiles y periodismo de datos. En búsqueda de nuevos lugares para contribuir a resolver problemas, encontrar hallazgos y difundir soluciones a través del análisis de datos. 
+
+###
 
 
 
